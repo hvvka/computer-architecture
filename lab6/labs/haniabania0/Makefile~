@@ -1,0 +1,2 @@
+main:
+			gcc -fPIC plik.s kradzione.c -o "hania"
